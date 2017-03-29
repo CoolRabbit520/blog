@@ -8,4 +8,4 @@
 5. Emmet
 6. 正则表达式
 7. Github
-
+8. display
