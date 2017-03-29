@@ -9,3 +9,5 @@
 6. 正则表达式
 7. Github
 8. display
+9. Chrome DevTools
+10. code guide
